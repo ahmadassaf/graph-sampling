@@ -27,3 +27,6 @@ tools/sp2b/*.n3
 /output
 *.jar
 /test*
+
+# OS Specific files
+.DS_Store
